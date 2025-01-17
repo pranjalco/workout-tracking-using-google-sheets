@@ -9,6 +9,8 @@ This project leverages the **Nutritionix API** and **Sheety API** to track your 
 1. Uses the **Nutritionix API** to understand the exercise and calculate additional details like duration and calories burned.
 2. Updates the results, including exercise details, date, and time, into a Google Sheet via the **Sheety API**.
 
+Note: All sensitive information, such as app IDs, API keys, and other credentials, has been removed from this documentation to ensure security.
+
 ## How to Use:
 1. Enter your workout description (e.g., "Cycled for 30 minutes" or "Did 10 push-ups") when prompted.
 2. The program will calculate necessary details and add them to your Google Sheet.
